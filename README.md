@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm M Algah Fattah Illahi 👋
+- 🔭 I’m currently working on undercover.io
+- 📫 How to reach me: malgahfattahillahi@gmail.com
+<br />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryuuu&show_icons=true&theme=tokyonight" />
+</p>
 
 <!--
 **aryuuu/aryuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
