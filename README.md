@@ -5,6 +5,13 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryuuu&show_icons=true&theme=tokyonight" />
 </p>
+<br/>
+<br />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryuuu&show_icons=true&theme=tokyonight&layout=compac&langs_count=10t" />
+</p>
+<br/>
+
 
 <!--
 **aryuuu/aryuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
