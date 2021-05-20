@@ -1,5 +1,7 @@
 ### Hi there I'm M Algah Fattah Illahi 👋
+<!--
 - 🔭 I’m currently working on [cepex](https://github.com/aryuuu/cepex-web)
+-->
 - 📫 How to reach me: malgahfattahillahi@gmail.com
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryuuu" alt="aryuuu" /> </p>
