@@ -5,13 +5,8 @@
 - 📫 How to reach me: malgahfattahillahi@gmail.com
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryuuu" alt="aryuuu" /> </p>
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryuuu&show_icons=true&theme=tokyonight" />
-</p>
-<br/>
-<br />
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryuuu&show_icons=true&theme=tokyonight&layout=compac&langs_count=10t" />
 </p>
 <br/>
 
