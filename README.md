@@ -1,4 +1,5 @@
 ### Hi there I'm M Algah Fattah Illahi 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Declare+var;Not+war)](https://git.io/typing-svg)
 <!--
 - 🔭 I’m currently working on [cepex](https://github.com/aryuuu/cepex-web)
 -->
